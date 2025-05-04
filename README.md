@@ -20,6 +20,6 @@ A quick guide to replace Cemu's default mii without WiiU dump files
 ![10](https://github.com/user-attachments/assets/90b08da8-22f2-426d-9403-c697bac7a564)
 
 
-##**Credits :**
+# **Credits :**
 - DatKat21 & Mii Creator team (Mii Creator site)
 - HeyImHeroic (Mii files data structure infos)
